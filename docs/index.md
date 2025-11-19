@@ -1,51 +1,73 @@
-# Actividad Unidad 0 - DevSecOps Básico y Automatización de la Documentación
+# PPS-Unidad0-Tarea-Roberto  
 
-## Índice
+**Introducción a la tarea** 
 
-- [Objetivos](#objetivos)
-- [Resultados de aprendizaje y Criterios de Evaluación](#resultados-de-aprendizaje-y-criterios-de-evaluación)
-- [Desarrollo](#desarrollo)
-- [Entrega](#entrega)
+**Hecho por Roberto Martín Nieto**
 
 ---
 
-# Objetivos
+## Contenido de la documentación
 
-Esta actividad tiene como objetivo poner en práctica los contenidos tratados en esta unidad:
-
-- Lenguaje de marcas MarkDown.  
-- Sistemas de control de versiones: Git.  
-- Creación y administración de contenedores: Docker.  
-- Ciclos de desarrollo software seguros: SecDevOps.  
-- Documentación.  
+- [Objetivos de la actividad](#objetivos-de-la-actividad)  
+- [Resultados de aprendizaje y criterios de evaluación](#resultados-de-aprendizaje-y-criterios-de-evaluación)  
+- [Descripción del desarrollo](#descripción-del-desarrollo)  
+- [Secciones de la documentación](#secciones-de-la-documentación)  
+- [Instrucciones de entrega](#instrucciones-de-entrega)  
 
 ---
 
-# Resultados de aprendizaje y Criterios de Evaluación
+# Objetivos de la actividad
 
-Esta actividad se relaciona con los criterios RA5 a, b, c y g.
+El propósito de esta tarea es aplicar los conocimientos adquiridos en la Unidad 0, practicando:  
 
----
-
-# Desarrollo
-
-> En este apartado se documentarán todas las fases de la tarea.  
-> Se incluyen enlaces a los documentos detallados en el menú superior.
-
-Los apartados de la actividad son:
-
-- Creación del repositorio  
-- Creación del WorkFlow de GitHub Actions  
-- Configuración de GitHub Pages  
-- Creación de un contenedor NGINX con Docker  
-
-Cada apartado se explica en su archivo correspondiente.
+- Uso del lenguaje de marcas **Markdown** para documentación técnica. 
+- Sistemas de control de versiones: **Git** y **GitHub**.
+- Automatización e Integración Continua (CI) con **GitHub Actions**.
+- Publicación de documentación mediante **GitHub Pages**.
+- Gestión de contenedores con **Docker** y despliegue de contenido con **NGINX**.
+- Documentación.
 
 ---
 
-# Entrega
+# Resultados de aprendizaje y criterios de evaluación
 
-- Repositorio comprimido  
-- Enlace a GitHub Pages  
-- Profesor añadido como colaborador  
+Esta actividad está alineada con el **RA 5**, cumpliendo los criterios a, b, c y g.  
 
+---
+
+# Descripción del desarrollo
+
+> **Importante:** Durante la documentación debes explicar paso a paso los procesos realizados. Incluye fragmentos de código, comandos ejecutados y, cuando sea necesario, capturas de pantalla que muestren claramente tu nombre o usuario en el sistema.  
+> 
+> Asegúrate de añadir al profesor como colaborador en tu repositorio: `PPSvjp` en **Settings > Collaborators**.  
+
+---
+
+# Secciones de la documentación
+
+1. **[Creación del Repositorio (git.md)](git.md)**  
+   Explica cómo se creó el repositorio, la estructura de carpetas y los primeros commits.
+
+2. **[GitHub Actions y MkDocs (gitActions.md)](gitActions.md)**  
+   Describe la configuración del WorkFlow que genera automáticamente la documentación estática con MkDocs.
+
+3. **[Publicación con GitHub Pages (gitPages.md)](gitPages.md)**  
+   Explica cómo se habilitó GitHub Pages para mostrar la documentación online.
+
+4. **[Contenedor NGINX con Docker (docker.md)](docker.md)**  
+   Documenta la creación y despliegue del contenedor NGINX para publicar la documentación localmente.
+
+5. **[Conclusiones (conclusiones.md)](conclusiones.md)**  
+   Reflexión personal sobre la experiencia y aprendizajes de la tarea.  
+
+---
+
+# Instrucciones de entrega
+
+Para entregar la actividad:  
+
+* Comprime el repositorio y envíalo a la plataforma.  
+* Incluye el enlace a tu página de `github.io` donde se visualiza la documentación.  
+* Verifica que el profesor `PPSvjp` está añadido como colaborador en GitHub.  
+
+**Nombre del archivo comprimido recomendado:**  
