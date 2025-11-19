@@ -1,7 +1,5 @@
 # PPS-Unidad0-Tarea-Roberto  
 
-**Hecho por Roberto Martín Nieto**
-
 ---
 
 ## Contenido de la documentación
@@ -52,4 +50,3 @@ Para entregar la actividad:
 * Incluye el enlace a tu página de `github.io` donde se visualiza la documentación.  
 * Verifica que el profesor `PPSvjp` está añadido como colaborador en GitHub.  
 
-**Nombre del archivo comprimido recomendado:**  
