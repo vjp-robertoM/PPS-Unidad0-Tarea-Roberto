@@ -15,6 +15,7 @@ ssh-keygen -t ed25519 -C "rmartinn05@informatica.iesvalledeljerteplasencia.es"
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
 ```
+---
 
 ## 1.2 Creación y Clonación del Repositorio Remoto
 
@@ -26,6 +27,7 @@ Luego se clona localmente:
 git clone **git@github.com:vjp-robertoM/PPS-Unidad0-Tarea-Roberto.git**
 cd **PPS-Unidad0-Tarea-Roberto**
 ```
+---
 
 ## 1.3 Creación de la Estructura de Archivos
 
@@ -41,6 +43,7 @@ touch mkdocs.yml requirements.txt
 # WorkFlow de GitHub Actions
 touch .github/workflows/CreacionDocumentacion.yml
 ```
+---
 
 ## 1.4 Subida de archivos al repositorio
 
@@ -56,5 +59,7 @@ git commit -m "feat: Inicializando estructura de la tarea y archivos de document
 # Subir al repositorio remoto
 git push origin main
 ```
-# 1.5  Obtenemos como resultado la creación de este repositorio en GitHub
+---
+
+## 1.5  Obtenemos como resultado la creación de este repositorio en GitHub
 ![Captura GitHub](imagenes/captura1.png)
