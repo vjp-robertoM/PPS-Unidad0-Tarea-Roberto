@@ -1,18 +1,14 @@
 # PPS-Unidad0-Tarea-Roberto  
 
-**Introducción a la tarea** 
-
 **Hecho por Roberto Martín Nieto**
 
 ---
 
 ## Contenido de la documentación
 
-- [Objetivos de la actividad](#objetivos-de-la-actividad)  
-- [Resultados de aprendizaje y criterios de evaluación](#resultados-de-aprendizaje-y-criterios-de-evaluación)  
-- [Descripción del desarrollo](#descripción-del-desarrollo)  
-- [Secciones de la documentación](#secciones-de-la-documentación)  
-- [Instrucciones de entrega](#instrucciones-de-entrega)  
+- [Objetivos de la actividad](#objetivos-de-la-actividad) 
+- [Secciones de la documentación](#secciones-de-la-documentación)
+- [Instrucciones de entrega](#instrucciones-de-entrega)
 
 ---
 
@@ -26,20 +22,6 @@ El propósito de esta tarea es aplicar los conocimientos adquiridos en la Unidad
 - Publicación de documentación mediante **GitHub Pages**.
 - Gestión de contenedores con **Docker** y despliegue de contenido con **NGINX**.
 - Documentación.
-
----
-
-# Resultados de aprendizaje y criterios de evaluación
-
-Esta actividad está alineada con el **RA 5**, cumpliendo los criterios a, b, c y g.  
-
----
-
-# Descripción del desarrollo
-
-> **Importante:** Durante la documentación debes explicar paso a paso los procesos realizados. Incluye fragmentos de código, comandos ejecutados y, cuando sea necesario, capturas de pantalla que muestren claramente tu nombre o usuario en el sistema.  
-> 
-> Asegúrate de añadir al profesor como colaborador en tu repositorio: `PPSvjp` en **Settings > Collaborators**.  
 
 ---
 
