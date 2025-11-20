@@ -12,8 +12,8 @@ site_name: Documentación Tarea Unidad 0
 nav:
   - Home: index.md
   - Git: git.md
-  - GitHub Actions: gitActions.md
-  - GitHub Pages: gitPages.md
+  - Actions: gitActions.md
+  - Pages: gitPages.md
   - Docker: docker.md
   - Conclusiones: conclusiones.md
 
