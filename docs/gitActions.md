@@ -1,6 +1,6 @@
-# 2 Automatización con GitHub Actions y MkDocs
+# 2 Automatización con GitHub Actions y mkdocs
 
-## 2.1 Configuración de MkDocs
+## 2.1 Configuración de mkdocs
 
 Antes de automatizar con GitHub Actions, necesitamos configurar **mkdocs**, se necesita crear el archivo `requirements.txt` con las dependencias necesarias: `mkdocs`
 
@@ -12,8 +12,9 @@ La estructura de **mkdocs** debe ser esta:
 ## 2.2 Configuración del WorkFlow
 
 El WorkFlow se ejecuta automáticamente con cada push a la rama main. Sus pasos principales son:
-- Descargar el repositorio.
-- Instalar Python y las dependencias de requirements.txt.
+
+* Descargar el repositorio.
+* Instalar Python y las dependencias de requirements.txt.
 - Ejecutar MkDocs para compilar la documentación.
 - Publicar automáticamente en la rama gh-pages.
 
@@ -35,4 +36,4 @@ git push origin main
 ---
 ## 2.4 Obtenemos como resultado la creación de GitHub-Pages
 
-![Captura workflow](imagenes/captura4.png)
+![Captura Action](imagenes/captura4.png)
